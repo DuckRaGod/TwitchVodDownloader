@@ -2,6 +2,7 @@
 using twitch-dl download twitch vod
 create text file call it vod.txt
 tamplate:
+
 ===========================
 <twtich vod id>
 <path to save vod>
